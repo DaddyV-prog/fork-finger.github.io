@@ -1,0 +1,715 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+    
+}
+h1{
+    text-align: center;
+    color: orangered;
+    letter-spacing: 5px;
+    word-spacing: 3px;
+    font-family: fantasy;
+}
+#deco{
+    background-color: orangered;
+    border-style: groove;
+    color: white;
+    padding: 5px;
+    border-radius: 15px;
+    width: 150px;
+    text-align: center;
+    position: absolute;
+    top: 15px;
+}
+#img{
+    background-color: orangered;
+    color: white;
+    width: inherit;
+    height: 100px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+}
+.intro{
+    font-weight: lighter;
+    text-align: center;
+}
+.one{
+    color: orangered;
+    font-weight: bolder;
+    margin-left: 80px;
+    margin-top: 15px;
+}
+.two{
+    color: orangered;
+    color: orangered;
+    font-weight: bolder;
+    margin-top: 5px;
+    position: absolute;
+    left: 550px;
+    top: 230px;
+}
+.three{
+    color: orangered;
+    color: orangered;
+    font-weight: bolder;
+    margin-top: 5px;
+    position: absolute;
+    left: 1000px;
+    top: 230px;
+}
+.intro1{
+    font-weight: lighter;
+    margin-left: 30px;
+    font-size: small;
+}
+.intro2{
+    font-weight: lighter;
+    font-size: small;
+    position: absolute;
+    left:500px ;
+    top: 258px;
+}
+.intro3{
+    font-weight: lighter;
+    font-size: small;
+    position: absolute;
+    left:950px ;
+    top: 258px;
+}
+div{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: rgb(158, 154, 154);
+    position: absolute;
+    top: 340px;
+    left: 75px;
+    border-style: solid;
+    border-color: rgb(165, 163, 163);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+}
+#img1{
+    position: absolute;
+    left: 350px;
+    top: 340px;
+    border-radius: 50%;
+}
+#img11{
+    position: absolute;
+    left: 600px;
+    top: 340px;
+    border-radius: 50%
+}
+#img2{
+    position: absolute;
+    left: 850px;
+    top: 340px;
+    border-radius: 50%
+}
+#img3{
+    position: absolute;
+    left: 1100px;
+    top: 340px;
+    border-radius: 50%
+}
+#All{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    position: absolute;
+    top: 440px;
+    left: 55px;
+}
+#Best{
+    font-style: oblique;
+    position: absolute;
+    top: 440px;
+    left: 350px;
+}
+#New{
+    font-style: oblique;
+    position: absolute;
+    top: 440px;
+    left: 630px;
+}
+#Cooks{
+    font-style: oblique;
+    position: absolute;
+    top: 440px;
+    left: 860px;
+}
+#Nuts{
+    font-style: oblique;
+    position: absolute;
+    top: 440px;
+    left: 1130px;
+}
+h2{
+    font-family: fantasy;
+    position: absolute;
+    left: 350px;
+    top: 500px;
+    color: orangered;
+}
+.water{
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    left: 350px;
+    top: 570px;
+}
+.water1{
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+    left: 350px;
+    top: 820px;
+    text-transform: capitalize;
+    
+}
+.water2{
+    color: rgb(70, 69, 69);
+    font-size: small;
+    position: absolute;
+    left: 350px;
+    top: 850px;
+}
+.water3{
+    color: green;
+    font-weight: bold;
+    position: absolute;
+    top: 870px;
+    left: 350px;
+}
+.cin{
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    left: 678px;
+    top: 570px;
+}
+.honey{
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    left: 1000px;
+    top: 570px;
+}
+.cin1{
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+    left: 678px;
+    top: 820px;
+    text-transform: capitalize;
+}
+.cin2{
+    color: rgb(70, 69, 69);
+    font-size: small;
+    position: absolute;
+    left: 678px;
+    top: 850px;
+}
+.cin3{
+    color: green;
+    font-weight: bold;
+    position: absolute;
+    top: 870px;
+    left: 678px; 
+}
+.hon1{
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+    left: 1000px;
+    top: 820px;
+    text-transform: capitalize;
+}
+.hon2{
+    color: rgb(70, 69, 69);
+    font-size: small;
+    position: absolute;
+    left: 1000px;
+    top: 850px;
+}
+.hon3{
+    color: green;
+    font-weight: bold;
+    position: absolute;
+    top: 870px;
+    left: 1000px; 
+}
+.sweet{
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    left: 350px;
+    top: 950px; 
+}
+.sweet1{
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+    left: 350px;
+    top: 1200px;
+    text-transform: capitalize;
+}
+.sweet2{
+    color: rgb(70, 69, 69);
+    font-size: small;
+    position: absolute;
+    left: 350px;
+    top: 1230px;
+}
+.sweet3{
+    color: green;
+    font-weight: bold;
+    position: absolute;
+    top: 1250px;
+    left: 350px;
+}
+.chips{
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    left: 678px;
+    top: 950px;
+}
+.chips1{
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+    left: 678px;
+    top: 1200px;
+    text-transform: capitalize;
+}
+.chips2{
+    color: rgb(70, 69, 69);
+    font-size: small;
+    position: absolute;
+    left: 678px;
+    top: 1230px;
+}
+.chips3{
+    color: green;
+    font-weight: bold;
+    position: absolute;
+    top: 1250px;
+    left: 678px;
+}
+.tur{
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    left: 1000px;
+    top: 950px;
+}
+.tur1{
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+    left: 1000px;
+    top: 1200px;
+    text-transform: capitalize;
+}
+.tur2{
+    color: rgb(70, 69, 69);
+    font-size: small;
+    position: absolute;
+    left: 1000px;
+    top: 1230px;
+}
+.tur3{
+    color: green;
+    font-weight: bold;
+    position: absolute;
+    top: 1250px;
+    left: 1000px;
+}
+.s{
+    height: 1px;
+    width: 300px;
+    color:black;
+    background-color: rgb(172, 171, 171);
+    position: absolute;
+    top: 500px;
+}
+details{
+    width: 300px;
+    position: absolute;
+    top: 550px;
+}
+.del{
+    width: 300px;
+    position: absolute;
+    top: 1000px;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+    word-spacing: 5px;
+}
+ul{
+    text-transform: uppercase;
+    position: absolute;
+    top: 1400px;
+    text-align: end;
+    left: 500px;
+}
+.about1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+    top: 170px;
+    left: 100px;
+}
+.about2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+    top: 240px;
+    left: 100px;
+}
+.about3{
+    position: absolute;
+    top: 350px;
+    left: 100px;
+    font-family: sans-serif;
+}
+.about4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+    top: 600px;
+    left: 100px;
+}
+.about5{
+    position: absolute;
+    top: 680px;
+    left: 100px;
+}
+.dl{
+    position: absolute;
+    top: 780px;
+    left: 120px;
+}
+.back{
+    height: 250px;
+    width: inherit;
+    position: absolute;
+    top: 300px;
+}
+#about5{
+    font-size: x-large;
+    text-transform: uppercase;
+    position: absolute;
+    top: 950px;
+    left: 650px;
+}
+#back{
+    width: 1333px;
+    height: 700px;
+}
+.about6{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-style: oblique;
+    position: absolute;
+    left: 650px;
+    top: 1000px;
+}
+.about7{
+    font-size: x-large;
+    text-transform: uppercase;
+    position: absolute;
+    top: 1220px;
+    left: 550px;
+    color: orangered;
+
+}
+.about8{
+    position: absolute;
+    left: 200px;
+    top: 1320px;
+    font-size: large;
+    color: rgb(104, 103, 103);
+}
+.about9{
+    position: absolute;
+    left: 600px;
+    top: 1320px;
+    font-size: large;
+    color: rgb(104, 103, 103);
+}
+.about10{
+    position: absolute;
+    left: 1000px;
+    top: 1320px;
+    font-size: large;
+    color: rgb(104, 103, 103);
+}
+.hr{
+    width: 1333px;
+    height: 1px;
+    background-color: rgb(112, 110, 110);
+    position: absolute;
+    top: 1350px;
+}
+body#login{
+    background-color: orangered;
+    color:white;
+}
+h3{
+    color: white;
+    position: absolute;
+    top: 120px;
+    left: 520px;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+.login{
+    height: 500px;
+    width: 400px;
+    position: absolute;
+    top: 100px;
+    left: 450px;
+    
+    
+}
+#ada0{
+    position: absolute;
+    top: 190px;
+    left: 460px;
+}
+#ada1{
+    position: absolute;
+    top: 4px;
+    left: 250px;
+}
+fieldset{
+    width: 350px;
+}
+#ada3{
+    position: absolute;
+    top: 80px;
+    right: 50px;
+}
+#homee{
+    position: absolute;
+    top: 400px;
+}
+#aboutu{
+    position: absolute;
+    top: 400px;
+    right: 10px;
+}
+.plus1{
+    content: "\002B";
+    font-size: 40px;
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid ;
+    line-height: 16px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: orangered;
+    color: white;
+    font-size: 2em ;
+    position: absolute;
+    top: 800px;
+    left: 580px;
+    
+}
+.plus2{
+    content: "\002B";
+    font-size: 40px;
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid ;
+    line-height: 16px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: orangered;
+    color: white;
+    font-size: 2em ;
+    position: absolute;
+    top: 800px;
+    left: 910px;
+}
+.plus3{
+    content: "\002B";
+    font-size: 40px;
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid ;
+    line-height: 16px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: orangered;
+    color: white;
+    font-size: 2em ;
+    position: absolute;
+    top: 800px;
+    left: 1230px;
+}
+.plus4{
+    content: "\002B";
+    font-size: 40px;
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid ;
+    line-height: 16px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: orangered;
+    color: white;
+    font-size: 2em ;
+    position: absolute;
+    top: 1180px;
+    left: 580px;
+}
+.plus5{
+    content: "\002B";
+    font-size: 40px;
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid ;
+    line-height: 16px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: orangered;
+    color: white;
+    font-size: 2em ;
+    position: absolute;
+    top: 1180px;
+    left: 910px;
+}
+.plus6{
+    content: "\002B";
+    font-size: 40px;
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid ;
+    line-height: 16px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: orangered;
+    color: white;
+    font-size: 2em ;
+    position: absolute;
+    top: 1180px;
+    left: 1230px;
+    
+}
+#search{
+    position: absolute;
+    top: 30px;
+    left: 1000px;
+}
+#button{
+    position: absolute;
+    top: 30px;
+    left: 1175px;
+}
+body#check{
+    background-color: whitesmoke;
+    color: orangered;
+}
+h4{
+    text-align: center;
+    color: orangered;
+    letter-spacing: 5px;
+    word-spacing: 3px;
+    font-family: fantasy;
+    font-size: xx-large;
+    text-decoration: underline;
+}
+#check1{
+    position: absolute;
+    left: 360px;
+    top: 200px;
+}
+#check2{
+    position: absolute;
+    top: 220px;
+    left: 650px;
+}
+#check3{
+    position: absolute;
+    left: 360px;
+    top: 280px;
+}
+#check4{
+    position: absolute;
+    left: 650px;
+    top: 280px;
+}
+#check5{
+    position: absolute;
+    top: 340px;
+    left: 360px;
+}
+#check6{
+    position: absolute;
+    top: 340px;
+    left: 650px;
+}
+#check7{
+    position: absolute;
+    top: 395px;
+    left: 360px;
+}
+#field{
+    position: absolute;
+    top: 430px;
+    left: 360px;
+    width: 440px;
+}
+#home1{
+    position: absolute;
+    top: 750px;
+    left: 450px;
+}
+#about1{
+    position: absolute;
+    top: 750px;
+    left: 650px;
+}

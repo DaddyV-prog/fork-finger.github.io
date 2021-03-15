@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Checkout</title>
+        <link rel="stylesheet" href="E.css">
+    </head>
+    <body id="check">
+        <h4>CHECKOUTs</h4>
+        <label id="check1"> <b> Ship to </b><br>Shipping From Nigeria <br> <input type="search" name="country" ></label><br>
+        <label id="check2">Category <br> <input type="search" name="Category"></label> <br>
+        <label id="check3"> Item Retail Price <br> <input type="search" name="Price" width="10px"> 
+                                    <select>
+                                        <option value="USD">USD</option>
+                                        <option value="NGN">NAIRA</option>
+                                    </select></label> <br>
+        <label id="check4">Taxes and Duties Paid by <br> <input type="checkbox" name="Sender">Sender
+                                        <input type="checkbox" name="Receiver">Receiver</label><br>
+        <label id="check5">Package Dimension <br> <input type="search" placeholder="cm"></label><br>
+        <label id="check6">Package Weight <br> <input type="search" name="Weight" placeholder="kg"></label><br>
+        <label id="check7"> <b>Choose your Carrier</b> <input type="radio" name="Fedex">FedEx Int
+                                        <input type="radio" name="DHL">DHL Express</label><br>
+        <fieldset id="field">
+                                        <p> <b> Payment Via Debit Card</b> <br> Card Num: <input type="num" name="num" placeholder="debit card num"> <br><br> Expiry Date <input type="date" name="Date"> <br><br> CVV: <input type="num" name="num" placeholder="usually 3 digits at the back of the card"> <br><br> Bank : <select>
+            <option value="Skye">Skye Bank</option>
+            <option value="Wema">Wema</option>
+            <option value="Access">Access</option>
+          </select></p>
+          <p>Verify <input type="checkbox" name="verify"> OTP <input type="text" name="Otp" placeholder="input otp"></p>
+          <input type="submit" name="Checkout">
+        </fieldset>
+        <a href="index.html" id="home1">Homepage</a>
+        <a href="about.html" id="about1">About Us</a>
+       
+    </body>
+</html>
