@@ -713,3 +713,55 @@ h4{
     top: 750px;
     left: 650px;
 }
+#horizontal{
+    width: 500px;
+    height: 1px;
+    background-color: rgb(112, 109, 109);
+}
+#lemon{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    position: absolute;
+    top: 410px;
+    left: 250px;
+    text-transform: uppercase;
+}
+#lemonprice{
+    position: absolute;
+    top: 430px;
+    left: 250px;
+    font-weight: bolder;
+}
+del{
+    color: red;
+}
+#colour{
+    font-weight: lighter;
+    font-size: smaller;
+    color: rgb(107, 107, 107);
+    position: absolute;
+    top: 470px;
+    left: 250px;   
+}
+#lemonsize{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: smaller;
+    color: rgb(107, 107, 107);
+    position: absolute;
+    top: 490px;
+    left: 250px; 
+}
+#lemonq{
+    font-weight: lighter;
+    font-size: smaller;
+    color: rgb(107, 107, 107);
+    position: absolute;
+    top: 510px;
+    left: 250px; 
+}
+#lemonsub{
+    position: absolute;
+    left: 250px;
+    top: 550px;
+}
