@@ -470,13 +470,13 @@ ul{
     top: 1350px;
 }
 body#login{
-    background-color: orangered;
-    color:white;
+    background-color: white;
+    color: orangered;
 }
 h3{
     color: white;
     position: absolute;
-    top: 120px;
+    top: 140px;
     left: 520px;
     text-decoration: underline;
     text-transform: uppercase;
@@ -764,4 +764,17 @@ del{
     position: absolute;
     left: 250px;
     top: 550px;
+}
+#cinnpic{
+    position: absolute;
+    top: 750px;
+    left: 200px;
+}
+#cinn{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    position: absolute;
+    top: 750px;
+    left: 250px;
+    text-transform: uppercase;
 }
