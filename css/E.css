@@ -760,21 +760,128 @@ del{
     top: 510px;
     left: 250px; 
 }
+#lemonvar{
+    font-weight: lighter;
+    font-size: smaller;
+    color: rgb(107, 107, 107);
+    position: absolute;
+    top: 540px;
+    left: 250px; 
+}
 #lemonsub{
     position: absolute;
     left: 250px;
-    top: 550px;
+    top: 600px;
 }
-#cinnpic{
+#varline{
+    width: 655px;
+    height: 1px;
+    background-color: rgb(112, 109, 109);
     position: absolute;
-    top: 750px;
-    left: 200px;
+    top: 337px;
+    left: 680px;
 }
-#cinn{
+#var{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: x-large;
+    text-decoration: underline;
+    color: orangered;
+    position: absolute;
+    top: 370px;
+    left: 700px;
+}
+#cloudy{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 450px;
+    left: 700px;
+}
+#pinky{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 650px;
+    left: 700px;
+}
+#brown{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 850px;
+    left: 700px;
+}
+#honeyy{
+    position: absolute;
+    top: 1100px;
+    left: 5px;
+}
+#honeyname{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bolder;
     position: absolute;
-    top: 750px;
+    top: 1120px;
     left: 250px;
     text-transform: uppercase;
+}
+#honeyprice{
+    position: absolute;
+    top: 1140px;
+    left: 250px;
+    font-weight: bolder;   
+}
+#honeytype{
+    font-weight: lighter;
+    font-size: smaller;
+    color: rgb(107, 107, 107);
+    position: absolute;
+    top: 1180px;
+    left: 250px;
+}
+#honeysize{
+    font-weight: lighter;
+    font-size: smaller;
+    color: rgb(107, 107, 107);
+    position: absolute;
+    top: 1200px;
+    left: 250px;
+}
+#honeyq{
+    font-weight: lighter;
+    font-size: smaller;
+    color: rgb(107, 107, 107);
+    position: absolute;
+    top: 1215px;
+    left: 250px;
+}
+#honeyvar{
+    font-weight: lighter;
+    font-size: smaller;
+    color: rgb(107, 107, 107);
+    position: absolute;
+    top: 1240px;
+    left: 250px;
+}
+#var2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: x-large;
+    text-decoration: underline;
+    color: orangered;
+    position: absolute;
+    top: 1000px;
+    left: 700px;
+}
+#honeysub{
+    position: absolute;
+    top: 1290px;
+    left: 250px;
+}
+#dijon{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 1100px;
+    left: 700px;
 }
