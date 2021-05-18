@@ -885,3 +885,106 @@ del{
     top: 1100px;
     left: 700px;
 }
+#yellow{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 1200px;
+    left: 700px;
+}
+#german{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 1340px;
+    left: 700px;
+}
+#cinn{
+    position: absolute;
+    top: 1700px;
+}
+#cinname{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    position: absolute;
+    top: 1730px;
+    left: 250px;
+    text-transform: uppercase;   
+}
+#cinp{
+    position: absolute;
+    top: 1750px;
+    left: 250px;
+    font-weight: bolder;      
+}
+#cint{
+    font-weight: lighter;
+    font-size: smaller;
+    color: rgb(107, 107, 107);
+    position: absolute;
+    top: 1790px;
+    left: 250px;   
+}
+#cins{
+    font-weight: lighter;
+    font-size: smaller;
+    color: rgb(107, 107, 107);
+    position: absolute;
+    top: 1810px;
+    left: 250px;   
+}
+#cinq{
+    font-weight: lighter;
+    font-size: smaller;
+    color: rgb(107, 107, 107);
+    position: absolute;
+    top: 1830px;
+    left: 250px;   
+}
+#cinv{
+    font-weight: lighter;
+    font-size: smaller;
+    color: rgb(107, 107, 107);
+    position: absolute;
+    top: 1860px;
+    left: 250px;
+}
+#cinsub{
+    position: absolute;
+    top: 1900px;
+    left: 250px;
+}
+#apple{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: x-large;
+    text-decoration: underline;
+    color: black;
+    position: absolute;
+    top: 1670px;
+    left: 700px;   
+}
+#appleintro{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 1730px;
+    left: 700px;   
+}
+#ingri{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: xx-large;
+    position: absolute;
+    top: 1850px;
+    left: 850px;
+    text-transform: uppercase;
+    color: orangered;
+}
+#ol{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 1920px;
+    left: 700px;   
+}
