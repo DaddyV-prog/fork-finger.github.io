@@ -1,7 +1,10 @@
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: white;
-    
+    height: 100%;
+    width: 100%;
+    max-width: 1330px;
+
 }
 h1{
     text-align: center;
@@ -986,5 +989,55 @@ del{
     font-weight: bold;
     position: absolute;
     top: 1920px;
-    left: 700px;   
+    left: 700px;  
+}
+#twist{
+ position: absolute;
+ top: 2300px;   
+}
+#twiname{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    position: absolute;
+    top: 2370px;
+    left: 250px;
+    text-transform: uppercase;
+}
+#twip{
+    position: absolute;
+    top: 2390px;
+    left: 250px;
+    font-weight: bolder  
+}
+#twit{
+    font-weight: lighter;
+    font-size: smaller;
+    color: rgb(107, 107, 107);
+    position: absolute;
+    top: 2440px;
+    left: 250px;
+}
+#twis{
+    font-weight: lighter;
+    font-size: smaller;
+    color: rgb(107, 107, 107);
+    position: absolute;
+    top: 2457px;
+    left: 250px; 
+}
+#twiq{
+    font-weight: lighter;
+    font-size: smaller;
+    color: rgb(107, 107, 107);
+    position: absolute;
+    top: 2473px;
+    left: 250px;
+}
+#twiv{
+    font-weight: lighter;
+    font-size: smaller;
+    color: rgb(107, 107, 107);
+    position: absolute;
+    top: 2498px;
+    left: 250px;
 }
